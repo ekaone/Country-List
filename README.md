@@ -2,8 +2,9 @@
   Country list
 </h1>
 
-## Country Flag SVG and PNG format
-👉 Country flag [SVG and PNG](https://github.com/ekaone/Country-Flag)
+## Some related stuff
+- 👉 Country flag [SVG and PNG](https://github.com/ekaone/Country-Flag)
+- 👉 Country [Languages](https://github.com/ekaone/Country-Language)
 
 ```
 [
