@@ -1,5 +1,5 @@
 <p align="center">
-  Country list
+  <h2>Country list</h2>
 </p>
 
 ## Country Flag SVG and PNG format
