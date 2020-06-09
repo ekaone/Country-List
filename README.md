@@ -1,6 +1,6 @@
-<h2 align="center">
+<h1 align="center">
   Country list
-</h2>
+</h1>
 
 ## Country Flag SVG and PNG format
 👉 Country flag [SVG and PNG](https://github.com/ekaone/Country-Flag)
